@@ -1,0 +1,13 @@
+Test print 0 at beginning of program
+# ================================================================
+# JOB Live Resources USAGE for job 2763256: ( don't consider mem values, they are wrong )
+# usage    1:                 cpu=00:00:00, mem=0.00000 GBs, io=0.00000, vmem=N/A, maxvmem=N/A
+# 
+# JOB Historical Resources USAGE for job 2763256: you have to manually run
+# qacct -j 2763256 2&> /dev/null || qacct -f /gridware/sge/default/common/accounting.complete -j 2763256
+# 
+# JOB ran over queue@host = short.q@t3wn56.psi.ch
+# 
+# JOBs executed on t3wn[30-40] should run ~1.13 faster than t3wn[10-29]
+#
+# removing TMPDIR: /scratch/tmpdir-2763256.1.short.q
